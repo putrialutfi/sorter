@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://sorter-thing.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1050071141734</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuSGWEGUszF8x3yR1tfOSNuoiSDjH28ZY</string>
+    <string name="google_app_id" translatable="false">1:1050071141734:android:5ad856ef76f49a61</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuSGWEGUszF8x3yR1tfOSNuoiSDjH28ZY</string>
+    <string name="google_storage_bucket" translatable="false">sorter-thing.appspot.com</string>
+    <string name="project_id" translatable="false">sorter-thing</string>
+</resources>

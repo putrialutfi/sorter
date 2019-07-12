@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 07 21:07:05 ICT 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Kampus\\AS\\Sorter\\app\\build\\intermediates\\assets\\debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
